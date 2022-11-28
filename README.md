@@ -1,5 +1,6 @@
 # dictionaries_flashcards
 
+This is a dictionary challenge where students will develop a dictionary based on the requirements below and then integrate this code into a tkinter pop-up window,
 
 
 '''
